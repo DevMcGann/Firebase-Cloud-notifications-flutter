@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906278601325",
+    "firebase_url": "https://push-notif-flutter-test.firebaseio.com",
+    "project_id": "push-notif-flutter-test",
+    "storage_bucket": "push-notif-flutter-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906278601325:android:c792cf068224d77592b564",
+        "android_client_info": {
+          "package_name": "com.gsoft.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906278601325-ceo6qsqavd8r20gad5htjef7cf1p4aph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gsoft.pushnotifications",
+            "certificate_hash": "4cfc10eb56c20cd9989a3721566dc9914eb129b0"
+          }
+        },
+        {
+          "client_id": "906278601325-gi66fn0id4p21pfim7gc0iopb5r5ql7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnnQ9n-YKSUQmhKABBKZ0iQ7AsW0HazjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906278601325-gi66fn0id4p21pfim7gc0iopb5r5ql7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
